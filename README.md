@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning Machine Learning
-- - 🔭 I’m currently working on Kaggle competitions
+- 🔭 I’m currently working on Kaggle competitions
 <!--
 **flurixoww/flurixoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
